@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Text("Hello, world!")
-            .padding(.top, 150)
+            .padding(.top, 100)
         Spacer()
     }
 }
