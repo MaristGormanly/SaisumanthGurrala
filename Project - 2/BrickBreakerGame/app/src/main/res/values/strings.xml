@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BrickBreakerGame</string>
+    <string name="high_scores_label">Top Ten High Scores</string>
+    <string name="high_scores_format">%1$s - %2$s</string>
+    <string name="preference_file_key">com.example.brickbreakergame.MainPreferenceFile</string>
+    <string-array name="planets_array">
+        <item>Very Slow</item>
+        <item>Slow</item>
+        <item>Medium Slow</item>
+        <item>Medium</item>
+        <item>Medium Fast</item>
+        <item>High</item>
+        <item>Extreme</item>
+    </string-array>
+</resources>
